@@ -1,0 +1,21 @@
+body {
+	padding: 50px;
+}
+
+.button {
+	font-size: 20px;
+	color: #fff;
+	background-color: blue;
+}
+
+a {
+	background-color: purple !important;
+}
+
+#nav div.pull-right a.button {
+	background-color: orange;
+}
+
+#nav a.button:hover {
+	background-color: yellow;
+}
